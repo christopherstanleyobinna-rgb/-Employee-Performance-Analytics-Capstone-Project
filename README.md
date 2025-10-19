@@ -89,7 +89,7 @@ By analyzing employee behavior, performance, and compensation trends, HR leaders
 
 
 ## 🏁 Conclusion
-![](https://github.com/christopherstanleyobinna-rgb/-Employee-Performance-Analytics-Capstone-Project/edit/main/images%20(2).jpeg)
+![](images%20(2).jpeg)
 
 The **Employee Performance Analytics Dashboard** provides clear visibility into the organization’s workforce dynamics.  
 Findings show that attrition is largely driven by pay gaps, workload, and engagement levels in frontline roles.  

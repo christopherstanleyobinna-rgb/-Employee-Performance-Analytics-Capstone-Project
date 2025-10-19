@@ -40,13 +40,13 @@ The project was completed as part of the **Codeant Technology Hub Capstone Progr
 Two dashboard pages were developed to communicate key HR insights:
 
 #### 🔹 Workforce Insights & Attrition
-![](HR_Report1.jpg)
+![](HR_Report11.jpg)
 
 - Shows organization-wide metrics on employee turnover, satisfaction, and salary by level.  
 - Highlights attrition by department and performance trends over time.  
 
 #### 🔹 Performance, Training & Productivity
-![](HR_Report2.jpg)
+![](HR_Report22.jpg)
 
 - Analyzes manager and store-level performance.  
 - Evaluates training impact, job-role productivity, and promotion readiness.  

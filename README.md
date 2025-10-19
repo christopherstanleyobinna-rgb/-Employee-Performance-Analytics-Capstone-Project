@@ -1,5 +1,6 @@
 # Employee-Performance-Analytics-Capstone-Project
-### 🎓 Capstone Project by [Christopher Stanley]  
+![](HR-Strategy616.jpg)
+## 🎓 Capstone Project by Christopher Stanley  
 **Learning Center:** Codeant Technology Hub  
 **Instructor:** Jodans  
 **Tool Used:** Microsoft Power BI  
@@ -29,28 +30,26 @@ The project was completed as part of the **Codeant Technology Hub Capstone Progr
   - `Salary_Band` → Entry, Associate, Manager, Senior, Executive  
 
 ### 3️⃣ Data Modeling
+![](HR_Modelling.jpg)
+
 - Created relationships between:
   - Employee table, Performance table, Store table, and Department table.  
 - Built a star schema model with unique identifiers (`Employee_ID`, `Manager_ID`, `Store_ID`).  
-- Defined DAX measures:
-  - `Attrition Rate`
-  - `Average Salary`
-  - `Average Satisfaction`
-  - `Total Employees Left`
-  - `Rank by Performance`
-  - `Top/Bottom 5 Stores by Sales`
 
 ### 4️⃣ Data Visualization (Power BI)
 Two dashboard pages were developed to communicate key HR insights:
 
 #### 🔹 Workforce Insights & Attrition
+![](HR_Report1.jpg)
+
 - Shows organization-wide metrics on employee turnover, satisfaction, and salary by level.  
 - Highlights attrition by department and performance trends over time.  
 
 #### 🔹 Performance, Training & Productivity
+![](HR_Report2.jpg)
+
 - Analyzes manager and store-level performance.  
 - Evaluates training impact, job-role productivity, and promotion readiness.  
-
 
 ## 📊 Key Insights
 

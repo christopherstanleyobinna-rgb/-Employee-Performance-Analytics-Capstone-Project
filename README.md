@@ -2,7 +2,7 @@
 ![](HR-Strategy616.jpg)
 ## 🎓 Capstone Project by Christopher Stanley  
 **Learning Center:** Codeant Technology Hub  
-**Instructor:** Jodans  
+**Instructor:** Mr Jodans  
 **Tool Used:** Microsoft Power BI  
 
 
@@ -71,8 +71,9 @@ Two dashboard pages were developed to communicate key HR insights:
 - **Productivity by Role:** Fresh Foods Director (1.56) and Vice President (1.51) highest; Customer Service and Store Managers lowest.  
 - **Promotion Readiness:** High-performing employees (e.g., Aaron Boyd, Amber Fernandez) show strong satisfaction (8.5–10), making them ideal promotion candidates.
 
-
 ## 💡 Recommendations
+![](images.png)
+
 - Strengthen **retention and engagement** initiatives in high-attrition departments such as Store Operations and Logistics.  
 - Review **salary equity** for entry-level and frontline positions to improve motivation.  
 - Introduce **mid-year refresher training** to maintain performance consistency.  
@@ -94,15 +95,8 @@ Training, fair compensation, and strong leadership remain the most effective lev
 
 
 ## 🙏 Acknowledgment
-This Capstone project was completed at **Codeant Technology Hub** under the mentorship of **Instructor Jodans**.  
+This Capstone project was completed at **Codeant Technology Hub** under the mentorship of **Instructor  Mr Jodans**.  
 Their guidance was instrumental in building both the analytical and visualization aspects of this project, from data modeling to storytelling with Power BI.
-
-
-## 📂 Project Files
-- `Capstone Employee Performance Dataset.xlsx`  
-- `Employee_Performance_Analytics.pbix`  
-- `HR Dashboard.pdf`  
-- `README.md`  
 
 
 ## 🏷️ Tags
